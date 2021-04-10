@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (5.4.2)
+  - Kingfisher (6.2.1)
+  - MBProgressHUD (1.2.0)
+  - ObjectMapper (4.2.0)
+  - Realm (10.7.2):
+    - Realm/Headers (= 10.7.2)
+  - Realm/Headers (10.7.2)
+  - RealmSwift (10.7.2):
+    - Realm (= 10.7.2)
+  - RxAlamofire (6.1.1):
+    - RxAlamofire/Core (= 6.1.1)
+  - RxAlamofire/Core (6.1.1):
+    - Alamofire (~> 5.4)
+    - RxSwift (~> 6.0)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - Schedule (2.1.0)
+  - SwiftChart (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - MBProgressHUD
+  - ObjectMapper
+  - RealmSwift
+  - RxAlamofire
+  - RxCocoa
+  - RxSwift
+  - Schedule
+  - SwiftChart
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - MBProgressHUD
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RxAlamofire
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Schedule
+    - SwiftChart
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  Kingfisher: e71c6fac2aebb1262888cabc2cb13d313362a48f
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Realm: e523da9ade306c5ae87e85dc09fdef148d3e1cc1
+  RealmSwift: 4f6758c3adbdcc87f7b7777107226532a077f61c
+  RxAlamofire: beb75a1c452d0de225651db4903f5d29d034a620
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  Schedule: 00e6d7bbdbdb000fd1f51a7d10e9f88a8c451fda
+  SwiftChart: ba767a678d568a5ee22d419e146a0582865e1aff
+
+PODFILE CHECKSUM: 70d8dd5b058f713cbafa0e27288aba948254a44e
+
+COCOAPODS: 1.10.1
